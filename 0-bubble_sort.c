@@ -1,8 +1,8 @@
 #include "sort.h"
-
 /**
- * bubble_sort -Function that sorts an arry of ints
+ *bubble_sort -Function that sorts an arry of ints
  *using bubble sort algorithm
+ *
  *@arry: arry of ints
  *@size:size of arry
  *
